@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Aryan Singla</h1>
 <h3 align="center">Python Developer</h3>
 
-- 💞️ I’m looking to collaborate on Machine Learning and Python Development Projects.
-- 💬 Ask me about **Machine Learning, Artificial Intelligence and Python Development.**
+- 💞️ I’m looking to collaborate on Backend Development and Python Development Projects.
+- 💬 Ask me about **Python Development and Artificial Intelligence.**
 - 📫 How to reach me **@aryansingla45@gmail.com.**
 
 ### Connect with me:
